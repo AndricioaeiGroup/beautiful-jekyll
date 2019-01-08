@@ -24,8 +24,10 @@ description: UCI Research
 
 # List of links in the navigation bar
 navbar-links:
+  Research Topics: "research"
+  Group: "group"
+  Publications: "publications"
   About Us: "aboutus"
-  Research:
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
