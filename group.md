@@ -10,7 +10,7 @@ title: Group Members
 * Anupam Chatterjee
 * James McSally 
 * Moises Romero 
-* Dhiman Ray 
+
 
 ### Alumni:
 * Gavin Bascom
