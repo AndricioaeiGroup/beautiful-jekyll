@@ -7,17 +7,17 @@ title: Group Members
 
 ### Graduate Students: 
 
-Anupam Chatterjee
-James McSally 
-Moises Romero 
-Dhiman Ray 
+* Anupam Chatterjee
+* James McSally 
+* Moises Romero 
+* Dhiman Ray 
 
 ### Alumni:
-Gavin Bascom
-Emel Ficici
-Gianmarc Johns
-Ahmet Mentes
-Nick Preketes 
-Mahua Roy
-Maryna Taranova
+* Gavin Bascom
+* Emel Ficici
+* Gianmarc Johns
+* Ahmet Mentes
+* Nick Preketes 
+* Mahua Roy
+* Maryna Taranova
 
