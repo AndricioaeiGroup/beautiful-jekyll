@@ -3,7 +3,21 @@ layout: page
 title: Publications
 ---
 
+### 2018
+
+Xu et al. “[Modulation of Hoogsteen dynamics on DNA recogni-tion](https://www.nature.com/articles/s41467-018-03516-1)”. Nat Commun, 9.1, 1473, (2018).
+
 ### 2017
+
+A. Maghsoodi, A. Chatterjee, I. Andricioaei, NC. Perkins., “[Dynamic Model Exposes the Energetics andDynamics of the Injection Machinery for Bacteriophage T4](https://www.sciencedirect.com/science/article/pii/S0006349517305684)”. Biophys. J.113.1 (2017).
+
+### 2016 
+
+A. Maghsoodi, A. Chatterjee, I. Andricioaei, NC. Perkins., ["A First Model of the Dynamics of the Bacteriophage T4 Injection Machinery"](http://computationalnonlinear.asmedigitalcollection.asme.org/article.aspx?articleid=2522105). ASME. J. Comput. Nonlinear Dynam., 11(4):041026-041026-8 (2016). 
+
+H. Zhou et al. “[m(1)A and m(1)G disrupt A-RNA structure throughthe intrinsic instability of Hoogsteen base pairs](https://www.nature.com/articles/nsmb.3270)”. Nat. Struct.Mol. Biol ,23.9, 803–810, (2016).
+
+James McSally and Ioan Andricioaei. “[Entropy Calculations of Hoog-steen and Watson-Crick Conformations](https://www.cell.com/biophysj/fulltext/S0006-3495(15)03369-X)”. Biophysical Journal,(2016).
 
 ### 2015
 
@@ -20,6 +34,8 @@ E. Ficici and I. Andricioaei, “[On the possibility of facilitated diffusion of
 A. Mentes, A.M. Florescu, E. Brunk, J. Wereszczynski, M. Joyeux and I. Andricioaei, “[Free energy landscape and characteristic forces for the initiation of DNA unzipping](http://dx.doi.org/10.1016/j.bpj.2015.01.025),” Biophys. J. 108, 1727-1738 (2015). 
 
 ### 2014 
+
+avid Reha et al. “Molecular dynamics comparison of E. coli WrbAapoprotein and holoprotein”. Journal of molecular modeling, 20(9):2400, (2014).
 
 M. Taranova, A. Hirsh, N. Perkins and I. Andricioaei, “[Role of microscopic flexibility in tightly curved DNA](http://dx.doi.org/10.1021/jp502233u),” J. Phys. Chem. B, 118, 11028–11036 (2014). 
 
