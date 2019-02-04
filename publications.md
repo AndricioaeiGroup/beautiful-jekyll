@@ -5,19 +5,27 @@ title: Publications
 
 ### 2018
 
-Xu et al. “[Modulation of Hoogsteen dynamics on DNA recogni-tion](https://www.nature.com/articles/s41467-018-03516-1)”. Nat Commun, 9.1, 1473, (2018).
+A. Chatterjee, A. Maghsoodi, N. Perkins and I. Andricioaei, “Elastic Continuum Stiffness of Contractile Tail Sheaths from Molecular Dynamics Simulations,” Biophys. J. (2018, submitted).
+
+G. Grazioli and I. Andricioaei, “[Advancements in milestoning: II Calculating time-correlation functions from milestoning data using stochastic path integrals in milestone space](https://aip.scitation.org/doi/abs/10.1063/1.5037482)”, J. Chem. Phys. 149, 084103 (2018). 
+
+G. Grazioli and I. Andricioaei, “[Advancements in milestoning: I. Accelerated milestoning using wind assisted re-weighted trajectories](https://aip.scitation.org/doi/abs/10.1063/1.5029954)”, J. Chem. Phys. 149, 084104 (2018).
+
+Y. Xu, J. McSally, I. Andricioaei, H.M. Al-Hashimi, “[Modulation of Hoogsteen Dynamics on DNA Recognition](https://www.nature.com/articles/s41467-018-03516-1)”, Nature Commun. 9, 1473 (2018).
 
 ### 2017
 
-A. Maghsoodi, A. Chatterjee, I. Andricioaei, NC. Perkins., “[Dynamic Model Exposes the Energetics andDynamics of the Injection Machinery for Bacteriophage T4](https://www.sciencedirect.com/science/article/pii/S0006349517305684)”. Biophys. J.113.1 (2017).
+G. Grazioli, C.T. Butts, I. Andricioaei, “[Automated placement of interfaces in conformational kinetics calculations using machine learning](https://aip.scitation.org/doi/10.1063/1.4989857)”, J. Chem. Phys. 147, 152727 (2017).
+
+A. Maghsoodi, A. Chatterjee, I. Andricioaei, NC. Perkins., “[Dynamic Model Exposes the Energetics andDynamics of the Injection Machinery for Bacteriophage T4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5510765/)”, Biophys. J. 113, 195-205 (2017).
+
+E. Ficici and I. Andricioaei, “[Electric-field induced protein translocation via a conformational transition in SecDF: A molecular dynamics study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5479055/)”, Biophys. J. 112, 2520-2528 (2017).
 
 ### 2016 
 
-A. Maghsoodi, A. Chatterjee, I. Andricioaei, NC. Perkins., ["A First Model of the Dynamics of the Bacteriophage T4 Injection Machinery"](http://computationalnonlinear.asmedigitalcollection.asme.org/article.aspx?articleid=2522105). ASME. J. Comput. Nonlinear Dynam., 11(4):041026-041026-8 (2016). 
+A. Maghsoodi, A. Chatterjee, I. Andricioaei, NC. Perkins., ["A First Model of the Dynamics of the Bacteriophage T4 Injection Machinery"](http://computationalnonlinear.asmedigitalcollection.asme.org/article.aspx?articleid=2522105), J. Comput. Nonlinear Dynam. 11(4), 041026 (2016).
 
-H. Zhou et al. “[m(1)A and m(1)G disrupt A-RNA structure throughthe intrinsic instability of Hoogsteen base pairs](https://www.nature.com/articles/nsmb.3270)”. Nat. Struct.Mol. Biol ,23.9, 803–810, (2016).
-
-James McSally and Ioan Andricioaei. “[Entropy Calculations of Hoog-steen and Watson-Crick Conformations](https://www.cell.com/biophysj/fulltext/S0006-3495(15)03369-X)”. Biophysical Journal,(2016).
+H. Zhou, I.J. Kimsey, E.N. Nikolova, B. Sathyamoorthy, G. Grazioli, J. McSally, T. Bai, C.H. Wunderlich, C. Kreutz, I. Andricioaei* and H. M Al-Hashimi*, “[m1A and m1G disrupt A-RNA structure through the intrinsic instability of Hoogsteen base pairs](https://www.nature.com/articles/nsmb.3270)”, Nature Structural & Molecular Biology, 23, 803–810 (2016).
 
 A.T. Frank and I. Andricioaei, “[Reaction coordinate-free approach to recovering kinetics from potential-scaled simulations: Application of Kramers’ rate theory](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b02654)”, J. Phys. Chem. B, 120 (33), 8600–8605 (2016).
 
