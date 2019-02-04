@@ -19,6 +19,8 @@ H. Zhou et al. “[m(1)A and m(1)G disrupt A-RNA structure throughthe intrinsic 
 
 James McSally and Ioan Andricioaei. “[Entropy Calculations of Hoog-steen and Watson-Crick Conformations](https://www.cell.com/biophysj/fulltext/S0006-3495(15)03369-X)”. Biophysical Journal,(2016).
 
+A.T. Frank and I. Andricioaei, “[Reaction coordinate-free approach to recovering kinetics from potential-scaled simulations: Application of Kramers’ rate theory](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b02654)”, J. Phys. Chem. B, 120 (33), 8600–8605 (2016).
+
 ### 2015
 
 Z. Cournia, T.W. Allen, I. Andricioaei, et al., [Membrane Protein Structure, Function, and Dynamics: a Perspective from Experiments and Theory](http://dx.doi.org/10.1007/s00232-015-9802-0), J. Membrane Biol., 248, 611 (2015). 
